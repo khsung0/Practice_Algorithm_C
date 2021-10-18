@@ -18,5 +18,8 @@
     <ClCompile Include="2164(Card2).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5582(Common Substring).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
